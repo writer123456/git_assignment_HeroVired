@@ -9,13 +9,10 @@ class Calculator:
   def divide(self, a, b):
     return a / b
 
-# TODO: Implement the following function to calculate the square root of a number.
-
-# def square_root(self, x):
-
-# return math.sqrt(x)
-
-# You need to uncomment the above function and complete its implementation to add the square root feature.
+  # TODO: Implement the following function to calculate the square root of a number.
+  # def square_root(self, x):
+  # return math.sqrt(x)
+  # You need to uncomment the above function and complete its implementation to add the square root feature.
 
 if __name__ == "__main__":
   calculator = Calculator()
