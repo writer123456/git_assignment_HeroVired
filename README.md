@@ -1,9 +1,8 @@
 # git_assignment_HeroVired 
 commands executed  
-
-Clone the repo using command
--git clone https://github.com/writer123456/git_assignment_HeroVired.git
-Create and check-out branch dev
+Clone the repo using command 
+-git clone https://github.com/writer123456/git_assignment_HeroVired.git 
+Create and check-out branch dev 
 -git checkout -b dev
 Create a new file CalculatorPlus.py in this branch, add the given code and save.
 stage the changes, commit and pushed the code using command 
