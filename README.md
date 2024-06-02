@@ -5,7 +5,7 @@ Clone the repo using command
 Create and check-out branch dev  
 -git checkout -b dev  
 Create a new file CalculatorPlus.py in this branch, add the given code and save. 
-stage the changes, commit and pushed the code using command 
+stage the changes, commit and pushed the code using command  
 -git commit -m “<comment>” 
 -git push 
 Click on create pull request->merge pull request->confirm merge to merge dev to main.
