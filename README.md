@@ -1,5 +1,6 @@
 # git_assignment_HeroVired  
-commands executed
+commands executed  
+
 Clone the repo using command
 -git clone https://github.com/writer123456/git_assignment_HeroVired.git
 Create and check-out branch dev
