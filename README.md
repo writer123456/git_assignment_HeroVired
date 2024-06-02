@@ -1,4 +1,4 @@
-# git_assignment_HeroVired
+# git_assignment_HeroVired  
 commands executed
 Clone the repo using command
 -git clone https://github.com/writer123456/git_assignment_HeroVired.git
