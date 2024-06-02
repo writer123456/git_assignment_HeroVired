@@ -6,8 +6,8 @@ Create and check-out branch dev
 -git checkout -b dev  
 Create a new file CalculatorPlus.py in this branch, add the given code and save. 
 stage the changes, commit and pushed the code using command 
--git commit -m “<comment>”
--git push
+-git commit -m “<comment>” 
+-git push 
 Click on create pull request->merge pull request->confirm merge to merge dev to main.
 Click on Create a new release ->Typed comment->set version as v1.0.0->clicked on Generate release notes->clicked on Publish Release
 Go back to main branch and did a git pull using following  commands
